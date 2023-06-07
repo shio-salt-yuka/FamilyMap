@@ -12,3 +12,4 @@ General Instructions:
 7.	Select Help -> Edit Custom VM Options and add the following line to the end of the file: `-Deditable.java.test.console=true` This is necessary to run the test driver properly.
 8.	Select File -> Invalidate Caches / Restart.
 9.	Once IntelliJ finishes restarting, you should be good to go. Good luck!
+# FamilyMap
